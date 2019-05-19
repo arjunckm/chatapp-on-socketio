@@ -10,7 +10,9 @@
   "author": "Arjun",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.0"
+    "bad-words": "^3.0.2",
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
